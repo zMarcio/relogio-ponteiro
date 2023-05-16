@@ -21,6 +21,7 @@ function upDateTime(){
 
     requestAnimationFrame(upDateTime);
 }
+//console.log(day);
 
 requestAnimationFrame(upDateTime);
 
